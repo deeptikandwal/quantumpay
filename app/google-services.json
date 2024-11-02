@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070826796630",
+    "project_id": "quantumpay-f2b79",
+    "storage_bucket": "quantumpay-f2b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070826796630:android:a8f8e11f803a49cdc32df7",
+        "android_client_info": {
+          "package_name": "com.pay.quantum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0xlCKpK8o_BGbs7Tf4SwzaDDrD2m2NZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
